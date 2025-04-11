@@ -22,4 +22,6 @@
     margin: auto;
 }
 
-
+body {
+    background-color: blue;
+}

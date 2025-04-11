@@ -1,0 +1,25 @@
+.container {
+    padding: 12px 20px;
+    color: red;
+    background-color: pink;
+    border: 2px solid black;
+    margin: auto;
+    width: 80%;
+    height: 200px;
+    text-align: center;
+}
+
+.innercon {
+    width: 60%;
+    text-align: center;
+    padding: 12px 20px;
+    border: 2px dotted rgb(0, 0, 0);
+    border-radius: 20px;
+    background-color: thistle;
+    color: teal;
+    height: 100px;
+    overflow: scroll;
+    margin: auto;
+}
+
+
